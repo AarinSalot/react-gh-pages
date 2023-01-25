@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AarinSalot/react-gh-pages/static/css/main.71981f07.css",
-    "main.js": "/AarinSalot/react-gh-pages/static/js/main.b6e740d2.js",
-    "static/media/ai.png": "/AarinSalot/react-gh-pages/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/AarinSalot/react-gh-pages/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/AarinSalot/react-gh-pages/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/AarinSalot/react-gh-pages/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/AarinSalot/react-gh-pages/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/AarinSalot/react-gh-pages/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/AarinSalot/react-gh-pages/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/AarinSalot/react-gh-pages/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/AarinSalot/react-gh-pages/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/AarinSalot/react-gh-pages/index.html",
-    "main.71981f07.css.map": "/AarinSalot/react-gh-pages/static/css/main.71981f07.css.map",
-    "main.b6e740d2.js.map": "/AarinSalot/react-gh-pages/static/js/main.b6e740d2.js.map"
+    "main.css": "/react-gh-pages/static/css/main.71981f07.css",
+    "main.js": "/react-gh-pages/static/js/main.ba075649.js",
+    "static/media/ai.png": "/react-gh-pages/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/react-gh-pages/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/react-gh-pages/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/react-gh-pages/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/react-gh-pages/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/react-gh-pages/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/react-gh-pages/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/react-gh-pages/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.71981f07.css.map": "/react-gh-pages/static/css/main.71981f07.css.map",
+    "main.ba075649.js.map": "/react-gh-pages/static/js/main.ba075649.js.map"
   },
   "entrypoints": [
     "static/css/main.71981f07.css",
-    "static/js/main.b6e740d2.js"
+    "static/js/main.ba075649.js"
   ]
 }
